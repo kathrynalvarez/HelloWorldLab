@@ -9,6 +9,6 @@ This app contains:
 * Text View Button
 
 Before Input:
-![alt text](https://github.com/kathrynalvarez/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](BeforeInput.png?raw=true)
 
 
