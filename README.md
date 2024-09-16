@@ -9,6 +9,10 @@ This app contains:
 * Text View Button
 
 Before Input:
-![alt text](BeforeInput.png?raw=true)
+* ![Before Input Image](BeforeInput.png?raw=true)
+
+After Input: 
+* ![After Input Image](AfterInput.png?raw=true)
+
 
 
